@@ -1,0 +1,14 @@
+{
+  "name": "portfolio2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss-cli build -i css/main.css -o public/output.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.12"
+  }
+}
